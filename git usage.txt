@@ -1,0 +1,9 @@
+[delete a local branch]
+git branch -d my_branch2
+
+[delete a remote branch]
+git push origin :my_branch2
+
+[rebase]
+git rebase may2013 14may2013
+#after resolving all conflits,then use git rebase --continue
