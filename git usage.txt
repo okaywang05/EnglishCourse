@@ -10,3 +10,6 @@ git push origin :my_branch2
 [rebase]
 git rebase may2013 14may2013
 #after resolving all conflits,then use git rebase --continue
+
+[git log]
+just used to see logg.
